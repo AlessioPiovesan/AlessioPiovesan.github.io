@@ -1,5 +1,0 @@
-packageSearchIndex = [{
-    "l": "All Packages",
-    "u": "allpackages-index.html"
-}, {"l": "it.polimi.ingsw"}, {"l": "it.polimi.ingsw.clients"}, {"l": "it.polimi.ingsw.clients.multiplayer.model"}, {"l": "it.polimi.ingsw.clients.multiplayer.web"}, {"l": "it.polimi.ingsw.clients.singleplayer.controller"}, {"l": "it.polimi.ingsw.clients.singleplayer.model"}, {"l": "it.polimi.ingsw.clients.singleplayer.web"}, {"l": "it.polimi.ingsw.clients.viewer"}, {"l": "it.polimi.ingsw.clients.viewer.controllers"}, {"l": "it.polimi.ingsw.clients.viewer.utils"}, {"l": "it.polimi.ingsw.server"}, {"l": "it.polimi.ingsw.server.accessories"}, {"l": "it.polimi.ingsw.server.accessories.cards"}, {"l": "it.polimi.ingsw.server.controller"}, {"l": "it.polimi.ingsw.server.model"}, {"l": "it.polimi.ingsw.server.model.board"}, {"l": "it.polimi.ingsw.server.model.game"}, {"l": "it.polimi.ingsw.server.viewer"}, {"l": "it.polimi.ingsw.server.web"}];
-updateSearchResults();
