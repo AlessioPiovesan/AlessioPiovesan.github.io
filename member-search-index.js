@@ -1,0 +1,4369 @@
+memberSearchIndex = [{
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "ability"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "SoloAction",
+    "l": "action(SoloAction)",
+    "u": "action(it.polimi.ingsw.clients.singleplayer.model.SoloAction)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "SoloActionTest",
+    "l": "action1()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "SoloActionTest",
+    "l": "action2()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "activateLeader(MouseEvent)",
+    "u": "activateLeader(javafx.scene.input.MouseEvent)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "activateProdCard(CardDev)",
+    "u": "activateProdCard(it.polimi.ingsw.server.accessories.cards.CardDev)"
+}, {"p": "it.polimi.ingsw.clients.multiplayer.web", "c": "Client", "l": "active"}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "SocketServerToClient",
+    "l": "active"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalBoardController",
+    "l": "active()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "actOnResponse(Colours, int, int)",
+    "u": "actOnResponse(it.polimi.ingsw.server.accessories.Colours,int,int)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "actualPayment(List<Pick>, Colours)",
+    "u": "actualPayment(java.util.List,it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Library",
+    "l": "addCard(int, CardDev)",
+    "u": "addCard(int,it.polimi.ingsw.server.accessories.cards.CardDev)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "InitialLeader",
+    "l": "addCard(MouseEvent)",
+    "u": "addCard(javafx.scene.input.MouseEvent)"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "addCardinLibrary(CardDev, int)",
+    "u": "addCardinLibrary(it.polimi.ingsw.server.accessories.cards.CardDev,int)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "LibraryTest",
+    "l": "addCardTest()"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameController",
+    "l": "addFaithPnt(int)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalGameController",
+    "l": "addFaithPnt(List<Colours>)",
+    "u": "addFaithPnt(java.util.List)"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameControllerTest",
+    "l": "addFaithPntTest()"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "ControllerTest",
+    "l": "addGame()"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "Controller",
+    "l": "addGame(int, GameController)",
+    "u": "addGame(int,it.polimi.ingsw.server.controller.GameController)"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "addLeaderSpace(Colours)",
+    "u": "addLeaderSpace(it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "addLeaderSpace(Colours)",
+    "u": "addLeaderSpace(it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "BoardTest",
+    "l": "addLeaderSpaceTest()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "addListener(PropertyChangeListener)",
+    "u": "addListener(java.beans.PropertyChangeListener)"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "Server",
+    "l": "addPlayer(String, int)",
+    "u": "addPlayer(java.lang.String,int)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "Lorenzo",
+    "l": "addPropertyChangeListener(PropertyChangeListener)",
+    "u": "addPropertyChangeListener(java.beans.PropertyChangeListener)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "addPropertyChangeListener(PropertyChangeListener)",
+    "u": "addPropertyChangeListener(java.beans.PropertyChangeListener)"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "addPropertyChangeListener(PropertyChangeListener)",
+    "u": "addPropertyChangeListener(java.beans.PropertyChangeListener)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalBoardController",
+    "l": "addToLeaderSpace(Colours)",
+    "u": "addToLeaderSpace(it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "BoardController",
+    "l": "addToLeaderSpace(Colours)",
+    "u": "addToLeaderSpace(it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "addToLeaderSpace(Colours)",
+    "u": "addToLeaderSpace(it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "ALL"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "SoloAction",
+    "l": "AS1"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "SoloAction",
+    "l": "AS2"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "SoloAction",
+    "l": "AS3"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "SoloAction",
+    "l": "AS4"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "SoloAction",
+    "l": "AS5"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "SoloAction",
+    "l": "AS6"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "SoloAction",
+    "l": "AS7"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "askId()"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "askId()"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "UI", "l": "askId()"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "askIP()"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "askNPlayers()"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "askNPlayers()"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "UI", "l": "askNPlayers()"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "askPort()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "BLACK"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "BLACK_BACKGROUND"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "BLACK_BACKGROUND_BRIGHT"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "BLACK_BOLD"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "BLACK_BOLD_BRIGHT"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "BLACK_BRIGHT"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "BLACK_UNDERLINED"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "blackCrossImg"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Colours",
+    "l": "BLUE"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "BLUE"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "BLUE_BACKGROUND"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "BLUE_BACKGROUND_BRIGHT"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "BLUE_BOLD"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "BLUE_BOLD_BRIGHT"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "BLUE_BRIGHT"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "BLUE_UNDERLINED"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "Board(int, Warehouse, StrongBox, FaithTrack, Library)",
+    "u": "%3Cinit%3E(int,it.polimi.ingsw.server.model.board.Warehouse,it.polimi.ingsw.server.model.board.StrongBox,it.polimi.ingsw.server.model.board.FaithTrack,it.polimi.ingsw.server.model.board.Library)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalGameController",
+    "l": "boardController"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameController",
+    "l": "boardController"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "BoardController",
+    "l": "BoardController(Board, String)",
+    "u": "%3Cinit%3E(it.polimi.ingsw.server.model.board.Board,java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "BoardControllerTest",
+    "l": "BoardControllerTest()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.server.viewer",
+    "c": "RemoteView",
+    "l": "boardId"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "LocalGame",
+    "l": "boards"
+}, {"p": "it.polimi.ingsw.server.model.game", "c": "Game", "l": "boards"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "BOARDS"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "BoardsController()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "BoardTest",
+    "l": "BoardTest()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "button0"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "button1"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "button2"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "button3"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "button4"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "button5"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "button6"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "buyCard(MouseEvent)",
+    "u": "buyCard(javafx.scene.input.MouseEvent)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "buyCardDev(CardDev, int)",
+    "u": "buyCardDev(it.polimi.ingsw.server.accessories.cards.CardDev,int)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "BoardTest",
+    "l": "buyCardDevTest()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "ResizeHandler",
+    "l": "calculateResize(Pane, Pane)",
+    "u": "calculateResize(javafx.scene.layout.Pane,javafx.scene.layout.Pane)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "canBuyAnyCardDev(List<CardDev>)",
+    "u": "canBuyAnyCardDev(java.util.List)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "CheckerTest",
+    "l": "canUseAnyCardDev()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "Checker",
+    "l": "canUseAnyCardDev(List<CardDev>, Map<Colours, Integer>)",
+    "u": "canUseAnyCardDev(java.util.List,java.util.Map)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "canUseAnyCardLeader(CardLeader[])",
+    "u": "canUseAnyCardLeader(it.polimi.ingsw.server.accessories.cards.CardLeader[])"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "InitialLeader",
+    "l": "card1"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "InitialLeader",
+    "l": "card2"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "InitialLeader",
+    "l": "card3"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "InitialLeader",
+    "l": "card4"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelView",
+    "l": "cardBrought(CardDev)",
+    "u": "cardBrought(it.polimi.ingsw.server.accessories.cards.CardDev)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_1C1"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_1C2"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_1C3"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_1G1"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_1G2"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_1G3"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_1P1"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_1P2"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_1P3"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_1Y1"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_1Y2"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_1Y3"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_2C1"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_2C2"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_2C3"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_2G1"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_2G2"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_2G3"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_2P1"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_2P2"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_2P3"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_2Y1"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_2Y2"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_2Y3"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_3C1"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_3C2"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_3C3"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_3G1"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_3G2"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_3G3"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_3P1"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_3P2"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_3P3"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_3Y1"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_3Y2"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_3Y3"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_4C1"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_4C2"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_4C3"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_4G1"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_4G2"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_4G3"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_4P1"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_4P2"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_4P3"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_4Y1"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_4Y2"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CARDDEV_4Y3"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "CardDev(int, ColoursCards, Pick[], Pick[], Pick[], int)",
+    "u": "%3Cinit%3E(int,it.polimi.ingsw.server.accessories.ColoursCards,it.polimi.ingsw.server.accessories.Pick[],it.polimi.ingsw.server.accessories.Pick[],it.polimi.ingsw.server.accessories.Pick[],int)"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameControllerTest",
+    "l": "cardDevAction()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalGameController",
+    "l": "cardDevAction(CardDev, int)",
+    "u": "cardDevAction(it.polimi.ingsw.server.accessories.cards.CardDev,int)"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameController",
+    "l": "cardDevAction(CardDev, int)",
+    "u": "cardDevAction(it.polimi.ingsw.server.accessories.cards.CardDev,int)"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelView",
+    "l": "cardDevDeck"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "LocalGame",
+    "l": "cardDevDeck"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Game",
+    "l": "cardDevDeck"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDevTest",
+    "l": "CardDevTest()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "CARDLEAD01"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "CARDLEAD02"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "CARDLEAD03"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "CARDLEAD04"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "CARDLEAD05"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "CARDLEAD06"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "CARDLEAD07"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "CARDLEAD08"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "CARDLEAD09"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "CARDLEAD10"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "CARDLEAD11"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "CARDLEAD12"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "CARDLEAD13"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "CARDLEAD14"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "CARDLEAD15"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "CARDLEAD16"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameControllerTest",
+    "l": "cardLeadAction()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalGameController",
+    "l": "cardLeadAction(CardLeader)",
+    "u": "cardLeadAction(it.polimi.ingsw.server.accessories.cards.CardLeader)"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameController",
+    "l": "cardLeadAction(CardLeader)",
+    "u": "cardLeadAction(it.polimi.ingsw.server.accessories.cards.CardLeader)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "CardLeader(Requirements[], String, Colours, int)",
+    "u": "%3Cinit%3E(it.polimi.ingsw.server.accessories.Requirements[],java.lang.String,it.polimi.ingsw.server.accessories.Colours,int)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "LocalGame",
+    "l": "cardLeaderDeck"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Game",
+    "l": "cardLeaderDeck"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeaderTest",
+    "l": "CardLeaderTest()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Requirements.RequirementsCard",
+    "l": "cardLvl"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "Utils",
+    "l": "castList(Class<? extends T>, Collection<?>)",
+    "u": "castList(java.lang.Class,java.util.Collection)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "changeStage(String)",
+    "u": "changeStage(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "checkAdd(int, Pick)",
+    "u": "checkAdd(int,it.polimi.ingsw.server.accessories.Pick)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Warehouse",
+    "l": "checkAdd(int, Pick)",
+    "u": "checkAdd(int,it.polimi.ingsw.server.accessories.Pick)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Warehouse",
+    "l": "checkAdd(Pick)",
+    "u": "checkAdd(it.polimi.ingsw.server.accessories.Pick)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "LibraryTest",
+    "l": "checkAddableCard()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Library",
+    "l": "checkAddableCard(int, CardDev)",
+    "u": "checkAddableCard(int,it.polimi.ingsw.server.accessories.cards.CardDev)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "WarehouseTest",
+    "l": "checkAddTest()"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "checker"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "checker"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "Checker",
+    "l": "Checker(UI)",
+    "u": "%3Cinit%3E(it.polimi.ingsw.clients.viewer.UI)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "CheckerTest",
+    "l": "CheckerTest()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "Server",
+    "l": "checkExistNickname(String, SocketServerToClient)",
+    "u": "checkExistNickname(java.lang.String,it.polimi.ingsw.server.web.SocketServerToClient)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "checkFT()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Warehouse",
+    "l": "checkIfEmptied()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "checkIfEndGame()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "BoardTest",
+    "l": "checkIfEndGameTest()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "BoardTest",
+    "l": "checkIfEndGameTest1()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "BoardTest",
+    "l": "checkIfEndGameTest3()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "checkLibraryStatus()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Warehouse",
+    "l": "checkLvlStatus(int)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "WarehouseTest",
+    "l": "checkLvlStatusTest()"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Game",
+    "l": "checkNext()"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "GameTest",
+    "l": "checkNextTest(int)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "CheckerTest",
+    "l": "checkOnRequiredCard()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "Checker",
+    "l": "checkOnRequiredCard(List<ArrayList<CardDev>>, List<CardLeader>, CardLeader, Requirements.RequirementsCard)",
+    "u": "checkOnRequiredCard(java.util.List,java.util.List,it.polimi.ingsw.server.accessories.cards.CardLeader,it.polimi.ingsw.server.accessories.Requirements.RequirementsCard)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "CheckerTest",
+    "l": "checkOnRequiredRes()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "Checker",
+    "l": "checkOnRequiredRes(Map<Colours, Integer>, List<CardLeader>, CardLeader, Requirements.RequirementsResources)",
+    "u": "checkOnRequiredRes(java.util.Map,java.util.List,it.polimi.ingsw.server.accessories.cards.CardLeader,it.polimi.ingsw.server.accessories.Requirements.RequirementsResources)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "checkSetup(String, String, int, Integer, int)",
+    "u": "checkSetup(java.lang.String,java.lang.String,int,java.lang.Integer,int)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Warehouse",
+    "l": "checkStatus()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "WarehouseTest",
+    "l": "checkStatusTest()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "checkStrongBoxStatus()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalBoardController",
+    "l": "checkVaticanReport()"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "BoardController",
+    "l": "checkVaticanReport()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "checkVaticanReport()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "checkWarehouseAdd(Pick, int)",
+    "u": "checkWarehouseAdd(it.polimi.ingsw.server.accessories.Pick,int)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "checkWarehouseStatus()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "chooseAction(String)",
+    "u": "chooseAction(java.lang.String)"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "chooseCardDev()"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "chooseInitialLeaders(CardLeader[])",
+    "u": "chooseInitialLeaders(it.polimi.ingsw.server.accessories.cards.CardLeader[])"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "chooseInitialLeaders(CardLeader[])",
+    "u": "chooseInitialLeaders(it.polimi.ingsw.server.accessories.cards.CardLeader[])"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "chooseNickname()"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "chooseNickname()"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "UI", "l": "chooseNickname()"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "chooseRes()"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "GUI", "l": "chooseRes()"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "CLI()",
+    "u": "%3Cinit%3E()"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "client"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "client"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "Client(int)",
+    "u": "%3Cinit%3E(int)"
+}, {
+    "p": "it.polimi.ingsw.clients",
+    "c": "ClientApp",
+    "l": "ClientApp()",
+    "u": "%3Cinit%3E()"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "clientSetup()"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "clientSetup()"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "UI", "l": "clientSetup()"}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "SocketServerToClient",
+    "l": "close()"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "SocketServerToClient",
+    "l": "closeConnection()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "StrongBoxController",
+    "l": "coinLabel"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "ColoursCards",
+    "l": "colored(String)",
+    "u": "colored(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "ColoursCardsTest",
+    "l": "coloredTest()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "colorMarket(Colours[][], Colours)",
+    "u": "colorMarket(it.polimi.ingsw.server.accessories.Colours[][],it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "colour"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Colours",
+    "l": "Colours(String)",
+    "u": "%3Cinit%3E(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "ColoursCards",
+    "l": "ColoursCards()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "ColoursCardsTest",
+    "l": "ColoursCardsTest()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "ColoursTest",
+    "l": "ColoursTest()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "InitialLeader",
+    "l": "confirmCards()"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "connect()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "ConsoleColors()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Constants",
+    "l": "Constants(int)",
+    "u": "%3Cinit%3E(int)"
+}, {"p": "it.polimi.ingsw.server.web", "c": "Server", "l": "controller"}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "Controller",
+    "l": "Controller()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "ControllerTest",
+    "l": "ControllerTest()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "cost"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "countWinPnt()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "BoardTest",
+    "l": "countWinPntTest()"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "createLibrary()"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "Server",
+    "l": "createNewGame(SocketServerToClient, String, int)",
+    "u": "createNewGame(it.polimi.ingsw.server.web.SocketServerToClient,java.lang.String,int)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "createSphereList()"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "createStrongBox()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "createTileList()"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "createWarehouse()"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "GUI", "l": "currentScene"}, {
+    "p": "it.polimi.ingsw",
+    "c": "MastersOfRenaissanceGUI",
+    "l": "currentScene"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "ColoursCards",
+    "l": "CYAN"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "CYAN"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "CYAN_BACKGROUND"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "CYAN_BACKGROUND_BRIGHT"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "CYAN_BOLD"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "CYAN_BOLD_BRIGHT"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "CYAN_BRIGHT"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "CYAN_UNDERLINED"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "ColoursTest",
+    "l": "deColor(String)",
+    "u": "deColor(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "SocketServerToClient",
+    "l": "deleteGamer(String)",
+    "u": "deleteGamer(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "Server",
+    "l": "deregisterConnection(SocketServerToClient)",
+    "u": "deregisterConnection(it.polimi.ingsw.server.web.SocketServerToClient)"
+}, {"p": "it.polimi.ingsw.server.model.board", "c": "Board", "l": "discount"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "doubleChooseRes()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "doubleChooseRes()"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "drawer"}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "DrawerCLI",
+    "l": "DrawerCLI(CLI)",
+    "u": "%3Cinit%3E(it.polimi.ingsw.clients.viewer.CLI)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "DrawerCLI",
+    "l": "drawFTBox(StringBuilder, String, StringBuilder)",
+    "u": "drawFTBox(java.lang.StringBuilder,java.lang.String,java.lang.StringBuilder)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "DrawerCLI",
+    "l": "drawFTBoxNumber(StringBuilder, int)",
+    "u": "drawFTBoxNumber(java.lang.StringBuilder,int)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "DrawerCLI",
+    "l": "drawMarket(Colours)",
+    "u": "drawMarket(it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "DrawerCLI",
+    "l": "drawSpecialBoxFTSingle(StringBuilder, String, String)",
+    "u": "drawSpecialBoxFTSingle(java.lang.StringBuilder,java.lang.String,java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "DrawerCLI",
+    "l": "drawYouAndLorenzoBoxFT(boolean, StringBuilder, StringBuilder)",
+    "u": "drawYouAndLorenzoBoxFT(boolean,java.lang.StringBuilder,java.lang.StringBuilder)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "DrawerCLI",
+    "l": "drawYourBoxFTSingle(boolean, String, String, StringBuilder, StringBuilder)",
+    "u": "drawYourBoxFTSingle(boolean,java.lang.String,java.lang.String,java.lang.StringBuilder,java.lang.StringBuilder)"
+}, {"p": "it.polimi.ingsw.server.viewer", "c": "RemoteView", "l": "end()"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "endGame"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "GUI", "l": "endGame"}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "endGame"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameController",
+    "l": "endGame()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalGameController",
+    "l": "endGame(boolean)"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameControllerTest",
+    "l": "endGameTest()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalBoardController",
+    "l": "equals(Object)",
+    "u": "equals(java.lang.Object)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "DrawerCLI",
+    "l": "equals(Object)",
+    "u": "equals(java.lang.Object)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "Utils",
+    "l": "equals(Object)",
+    "u": "equals(java.lang.Object)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Pick",
+    "l": "equals(Object)",
+    "u": "equals(java.lang.Object)"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "BoardController",
+    "l": "equals(Object)",
+    "u": "equals(java.lang.Object)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "ResizeHandler",
+    "l": "evaluateNode(Node, Pane)",
+    "u": "evaluateNode(javafx.scene.Node,javafx.scene.layout.Pane)"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "executor"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "executor"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "external"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelView",
+    "l": "externalMarble"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "faithTrack"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "FaithTrack",
+    "l": "FaithTrack()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "faithTrackPos"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "FaithTrackTest",
+    "l": "FaithTrackTest()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "fillColumns(List<Colours>, List<Integer>, int, int, Colours[][], int)",
+    "u": "fillColumns(java.util.List,java.util.List,int,int,it.polimi.ingsw.server.accessories.Colours[][],int)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "fillMarble(List<Color>)",
+    "u": "fillMarble(java.util.List)"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "fillMarket(List<Colours>)",
+    "u": "fillMarket(java.util.List)"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "findFirstExternal(List<Colours>, List<Integer>)",
+    "u": "findFirstExternal(java.util.List,java.util.List)"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "findNextMarble(List<Integer>, int, int)",
+    "u": "findNextMarble(java.util.List,int,int)"
+}, {"p": "it.polimi.ingsw.server.web", "c": "Server", "l": "firstRes"}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "Server",
+    "l": "firstRes(SocketServerToClient)",
+    "u": "firstRes(it.polimi.ingsw.server.web.SocketServerToClient)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "Card",
+    "l": "flipCard()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "flipCard()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "flipCard()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "flipped"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "flipped"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDevTest",
+    "l": "flippedTest()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeaderTest",
+    "l": "flippedTest()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "JsonTest",
+    "l": "fromJson()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Json",
+    "l": "fromJson(JsonNode, Class<A>)",
+    "u": "fromJson(com.fasterxml.jackson.databind.JsonNode,java.lang.Class)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Colours",
+    "l": "fromString(String)",
+    "u": "fromString(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "ColoursTest",
+    "l": "fromStringTest()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalGameController",
+    "l": "game"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameController",
+    "l": "game"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Game",
+    "l": "Game(int, int, Market)",
+    "u": "%3Cinit%3E(int,int,it.polimi.ingsw.server.model.game.Market)"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "SocketServerToClient",
+    "l": "gameController"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameController",
+    "l": "GameController(int, int, Game)",
+    "u": "%3Cinit%3E(int,int,it.polimi.ingsw.server.model.game.Game)"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "Controller",
+    "l": "gameControllerMap"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameControllerTest",
+    "l": "GameControllerTest()",
+    "u": "%3Cinit%3E()"
+}, {"p": "it.polimi.ingsw.server.viewer", "c": "RemoteView", "l": "gameId"}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "gameID"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "GameTest",
+    "l": "GameTest()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "getAbility()"
+}, {"p": "it.polimi.ingsw.server.model.game", "c": "Game", "l": "getAllB()"}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameController",
+    "l": "getAllBoardController()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "LocalGame",
+    "l": "getBoard(boolean)"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelView",
+    "l": "getBoard(int)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalGameController",
+    "l": "getBoardController()"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "SocketServerToClient",
+    "l": "getBoardController()"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameController",
+    "l": "getBoardController(int)"
+}, {
+    "p": "it.polimi.ingsw.server.viewer",
+    "c": "RemoteView",
+    "l": "getBoardId()"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelView",
+    "l": "getCardDevDeck()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "LocalGame",
+    "l": "getCardDevDeck()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "getCardDevDeck()"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Game",
+    "l": "getCardDevDeck()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "InitialLeader",
+    "l": "getCardLeader(String)",
+    "u": "getCardLeader(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Requirements.RequirementsCard",
+    "l": "getCardLvl()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Library",
+    "l": "getCardOnTop(int)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "LibraryTest",
+    "l": "getCardOnTopTest()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "getCards(CardLeader[])",
+    "u": "getCards(it.polimi.ingsw.server.accessories.cards.CardLeader[])"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "InitialLeader",
+    "l": "getCards(CardLeader[])",
+    "u": "getCards(it.polimi.ingsw.server.accessories.cards.CardLeader[])"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Library",
+    "l": "getCardsOfASlot(int)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDevTest",
+    "l": "getCardTest()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeaderTest",
+    "l": "getCardTest()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "getColor()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "getColor(Colours)",
+    "u": "getColor(it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDevTest",
+    "l": "getColor(ColoursCards)",
+    "u": "getColor(it.polimi.ingsw.server.accessories.ColoursCards)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Colours",
+    "l": "getColoredType(Colours)",
+    "u": "getColoredType(it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "getColour()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Requirements.RequirementsCard",
+    "l": "getColour()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Requirements.RequirementsResources",
+    "l": "getColour()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "getColumn()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "CheckerTest",
+    "l": "getCorrectDevCardCode()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "Checker",
+    "l": "getCorrectDevCardCode(String)",
+    "u": "getCorrectDevCardCode(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "CheckerTest",
+    "l": "getCorrectLeaderCardCode()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "Checker",
+    "l": "getCorrectLeaderCardCode(String)",
+    "u": "getCorrectLeaderCardCode(java.lang.String)"
+}, {"p": "it.polimi.ingsw.server.accessories.cards", "c": "CardDev", "l": "getCost()"}, {
+    "p": "it.polimi.ingsw",
+    "c": "MastersOfRenaissanceGUI",
+    "l": "getCurrentScene()"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "getDevCard(String)",
+    "u": "getDevCard(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "getDiscount(int)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "getEndGame()"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "getExternal()"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "MarketTest",
+    "l": "getExternal(int)"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelView",
+    "l": "getExternalMarble()"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "getExternalMarble()"}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "Server",
+    "l": "getExternalMarbleAndSend(PropertyChangeEvent)",
+    "u": "getExternalMarbleAndSend(java.beans.PropertyChangeEvent)"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "getFaithTrack()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "getFaithTrack()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "Card",
+    "l": "getFlipped()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "getFlipped()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "getFlipped()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "ResizeHandler",
+    "l": "getFontSize(Pane, Labeled)",
+    "u": "getFontSize(javafx.scene.layout.Pane,javafx.scene.control.Labeled)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "ResizeHandler",
+    "l": "getFontSize(Pane, TextField)",
+    "u": "getFontSize(javafx.scene.layout.Pane,javafx.scene.control.TextField)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalGameController",
+    "l": "getGame()"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameController",
+    "l": "getGame()"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "Controller",
+    "l": "getGameControllerById(int)"
+}, {
+    "p": "it.polimi.ingsw.server.viewer",
+    "c": "RemoteView",
+    "l": "getGameId()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "getGameID()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "ResizeHandler",
+    "l": "getHeightListener()"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameController",
+    "l": "getId()"
+}, {"p": "it.polimi.ingsw.server.model.game", "c": "Game", "l": "getId()"}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "getId()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalGameController",
+    "l": "getInstance()"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "Controller",
+    "l": "getInstance()"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "ControllerTest",
+    "l": "getInstance()"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "getIp()"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "getLeaderCard(String)",
+    "u": "getLeaderCard(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "getLeaderSpace()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "getLeaderSpace()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "getLeaderSpace()"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "getLibrary()"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "getLibrary()"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "getLibrary()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "getLocalGameController()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "getLocalGameController()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "DrawerCLI",
+    "l": "getLocalGameController()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "getLorenzo()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "getLvl()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "getMainPane()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "GUIController",
+    "l": "getMainPane()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "InitialLeader",
+    "l": "getMainPane()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "MainMenuController",
+    "l": "getMainPane()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "SetupController",
+    "l": "getMainPane()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "StrongBoxController",
+    "l": "getMainPane()"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelView",
+    "l": "getMarket()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "LocalGame",
+    "l": "getMarket()"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Game",
+    "l": "getMarket()"
+}, {"p": "it.polimi.ingsw.server.model.board", "c": "Board", "l": "getMarketAlt()"}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "Server",
+    "l": "getMarketAndSend(PropertyChangeEvent)",
+    "u": "getMarketAndSend(java.beans.PropertyChangeEvent)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "getMarketTray()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "getMove(String)",
+    "u": "getMove(java.lang.String)"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "getMyBoard()"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "getMyBoard()"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "UI", "l": "getMyBoard()"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "getMyCardLeader()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "getMyCardLeader()"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "getMyLeaderCards()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "getMyLeaderCards()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "ResizeHandler",
+    "l": "getNewParameters(Pane, double, Node, Bounds)",
+    "u": "getNewParameters(javafx.scene.layout.Pane,double,javafx.scene.Node,javafx.geometry.Bounds)"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Game",
+    "l": "getNGamers()"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "getNickname()"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "getNickname()"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "getNickname()"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "UI", "l": "getNickname()"}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "getNickname()"
+}, {
+    "p": "it.polimi.ingsw.server.viewer",
+    "c": "RemoteView",
+    "l": "getNickname()"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "getNPlayers()"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "getNPlayers()"
+}, {
+    "p": "it.polimi.ingsw.server.viewer",
+    "c": "RemoteView",
+    "l": "getNPlayers()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Json",
+    "l": "getObjectMapper()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "Utils",
+    "l": "getPath(CardLeader)",
+    "u": "getPath(it.polimi.ingsw.server.accessories.cards.CardLeader)"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Game",
+    "l": "getPlayingPlayer()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "FaithTrack",
+    "l": "getPopeFavorWinPnt()"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "getPort()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "FaithTrack",
+    "l": "getPosition()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "getPositionFT()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "getProductAlt()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Requirements.RequirementsResources",
+    "l": "getQnt()"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "SocketServerToClient",
+    "l": "getRemoteView()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "getReq()"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "getRes(int)"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "getResAll()"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "getResAll()"}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "getResAllObj()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "getResFrom()"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "MarketTest",
+    "l": "getResourcesTest(int)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "getResponse()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "getResTo()"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "getResX(int)"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "getResY(int)"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "getRow()"}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Game",
+    "l": "getSingleB(int)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Library",
+    "l": "getSlot()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "getSpecial()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "getSpecificCard(String)",
+    "u": "getSpecificCard(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "getSpecificCard(String)",
+    "u": "getSpecificCard(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeaderTest",
+    "l": "getSpecificCardTest()"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "getStrongBox()"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "getStrongBox()"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "getStrongBox()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "StrongBox",
+    "l": "getStrongContent()"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "BoardControllerTest",
+    "l": "getterTest()"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameControllerTest",
+    "l": "getterTester()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "SimpleTestCaseJsonPOJO",
+    "l": "getTitle()"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "getTray()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Colours",
+    "l": "getType()"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "getUi()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Constants",
+    "l": "getVal()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Warehouse",
+    "l": "getWareContent()"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "getWarehouse()"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "getWarehouse()"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "getWarehouse()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "getWarehouseShelfLvl()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "ResizeHandler",
+    "l": "getWidthListener()"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameController",
+    "l": "getWin()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "Card",
+    "l": "getWinPnt()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "getWinPnt()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "getWinPnt()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "FaithTrack",
+    "l": "getWinPnt()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "FaithTrack",
+    "l": "getWinPntCard()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Library",
+    "l": "getWinPntCardDev()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "LibraryTest",
+    "l": "getWinPntCardDevTest()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "getWinPntCardLeader()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "FaithTrack",
+    "l": "getWinPntPosition()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "FaithTrackTest",
+    "l": "getWinPntTest()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "LocalGame",
+    "l": "giveCardLead()"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Game",
+    "l": "giveCardLead()"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "GameTest",
+    "l": "giveCardLeadTest()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "ColoursCards",
+    "l": "GREEN"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "GREEN"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "GREEN_BACKGROUND"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "GREEN_BACKGROUND_BRIGHT"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "GREEN_BOLD"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "GREEN_BOLD_BRIGHT"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "GREEN_BRIGHT"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "GREEN_UNDERLINED"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Colours",
+    "l": "GREY"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "gui"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "InitialLeader",
+    "l": "gui"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "MainMenuController",
+    "l": "gui"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "SetupController",
+    "l": "gui"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "StrongBoxController",
+    "l": "gui"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "GUI()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalBoardController",
+    "l": "hashCode()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "DrawerCLI",
+    "l": "hashCode()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "Utils",
+    "l": "hashCode()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Pick",
+    "l": "hashCode()"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "BoardController",
+    "l": "hashCode()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "ResizeHandler",
+    "l": "heightListener"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameController",
+    "l": "id"
+}, {"p": "it.polimi.ingsw.server.model.game", "c": "Game", "l": "id"}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "id"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "SetupController",
+    "l": "idField"
+}, {"p": "it.polimi.ingsw.server.controller", "c": "Controller", "l": "idGame"}, {
+    "p": "it.polimi.ingsw.server.model",
+    "c": "Mod",
+    "l": "idGame"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "InitialLeader",
+    "l": "InitialLeader()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "INITIALLEADERCARDS"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "initialLeaderScene(PropertyChangeEvent)",
+    "u": "initialLeaderScene(java.beans.PropertyChangeEvent)"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameController",
+    "l": "initialResourcesHandler()"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "input"}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "Checker",
+    "l": "input"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "interpreter(String)",
+    "u": "interpreter(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "SocketServerToClient",
+    "l": "interpreter(String)",
+    "u": "interpreter(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "ip"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "isActive()"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "SocketServerToClient",
+    "l": "isActive()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "Checker",
+    "l": "isAddable(CardDev, int, List<ArrayList<CardDev>>)",
+    "u": "isAddable(it.polimi.ingsw.server.accessories.cards.CardDev,int,java.util.List)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "ResizeHandler",
+    "l": "isAPaneNotAGridPane(Node)",
+    "u": "isAPaneNotAGridPane(javafx.scene.Node)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "Checker",
+    "l": "isFirstCharOk(String)",
+    "u": "isFirstCharOk(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalGameController",
+    "l": "isLorenzoPlaying()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "CheckerTest",
+    "l": "isPopeFavor()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "Checker",
+    "l": "isPopeFavor(int)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "Checker",
+    "l": "isSecondCharOk(String)",
+    "u": "isSecondCharOk(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Warehouse",
+    "l": "isThereThatRes(Colours)",
+    "u": "isThereThatRes(it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "WarehouseTest",
+    "l": "isThereThatResTest()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "Checker",
+    "l": "isThirdCharOk(String)",
+    "u": "isThirdCharOk(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "Server",
+    "l": "joinNewGame(SocketServerToClient, String, int, Integer)",
+    "u": "joinNewGame(it.polimi.ingsw.server.web.SocketServerToClient,java.lang.String,int,java.lang.Integer)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Json",
+    "l": "Json()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "JsonTest",
+    "l": "JsonTest()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "leader1"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "leader1Button"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "leader2"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "leader2Button"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameController",
+    "l": "leaderCardsHandler()"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "leaderSpace"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "leaderSpace"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "library"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "library"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Library",
+    "l": "Library()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "LibraryTest",
+    "l": "LibraryTest()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "listener"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalGameController",
+    "l": "listSoloAction"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "Server",
+    "l": "lobby(SocketServerToClient, String, int, Integer)",
+    "u": "lobby(it.polimi.ingsw.server.web.SocketServerToClient,java.lang.String,int,java.lang.Integer)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.web",
+    "c": "Local",
+    "l": "Local(int)",
+    "u": "%3Cinit%3E(int)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalBoardController",
+    "l": "LocalBoardController(Board, Lorenzo)",
+    "u": "%3Cinit%3E(it.polimi.ingsw.server.model.board.Board,it.polimi.ingsw.clients.singleplayer.model.Lorenzo)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "LocalGame",
+    "l": "LocalGame(Market)",
+    "u": "%3Cinit%3E(it.polimi.ingsw.server.model.game.Market)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalGameController",
+    "l": "LocalGameController()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalBoardController",
+    "l": "lorenzo"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalBoardController",
+    "l": "lorenzo()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "Lorenzo",
+    "l": "Lorenzo(int, FaithTrack)",
+    "u": "%3Cinit%3E(int,it.polimi.ingsw.server.model.board.FaithTrack)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "lvl"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Warehouse",
+    "l": "lvlExchange(int, int)",
+    "u": "lvlExchange(int,int)"
+}, {"p": "it.polimi.ingsw.server.model.board", "c": "WarehouseTest", "l": "lvlExchangeTest()"}, {
+    "p": "it.polimi.ingsw",
+    "c": "MastersOfRenaissanceCLI",
+    "l": "main(String[])",
+    "u": "main(java.lang.String[])"
+}, {
+    "p": "it.polimi.ingsw",
+    "c": "MastersOfRenaissanceGUI",
+    "l": "main(String[])",
+    "u": "main(java.lang.String[])"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "MainMenuController",
+    "l": "MainMenuController()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "mainPane"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "InitialLeader",
+    "l": "mainPane"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "MainMenuController",
+    "l": "mainPane"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "SetupController",
+    "l": "mainPane"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "StrongBoxController",
+    "l": "mainPane"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "marbles"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelView",
+    "l": "market"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "LocalGame",
+    "l": "market"
+}, {"p": "it.polimi.ingsw.server.model.game", "c": "Game", "l": "market"}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "Market()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalGameController",
+    "l": "marketAction(int)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "marketAction(int)"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameController",
+    "l": "marketAction(int)"
+}, {"p": "it.polimi.ingsw.server.model.board", "c": "Board", "l": "marketAlt"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "marketMove()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "marketResHandler(List<Colours>)",
+    "u": "marketResHandler(java.util.List)"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "MarketTest",
+    "l": "MarketTest()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw",
+    "c": "MastersOfRenaissanceCLI",
+    "l": "MastersOfRenaissanceCLI()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw",
+    "c": "MastersOfRenaissanceGUI",
+    "l": "MastersOfRenaissanceGUI()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Constants",
+    "l": "MAXMARBLESB"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Constants",
+    "l": "MAXMARBLESG"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Constants",
+    "l": "MAXMARBLESP"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Constants",
+    "l": "MAXMARBLESR"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Constants",
+    "l": "MAXMARBLESW"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Constants",
+    "l": "MAXMARBLESY"
+}, {"p": "it.polimi.ingsw.server.accessories", "c": "Constants", "l": "MAXTRACK"}, {
+    "p": "it.polimi.ingsw",
+    "c": "MastersOfRenaissanceGUI",
+    "l": "MENU"
+}, {
+    "p": "it.polimi.ingsw.server.model",
+    "c": "Mod",
+    "l": "Mod()",
+    "u": "%3Cinit%3E()"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "model"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "model"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "ModelBoard()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelView",
+    "l": "modelBoards"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "modelView"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelView",
+    "l": "ModelView(int, UI)",
+    "u": "%3Cinit%3E(int,it.polimi.ingsw.clients.viewer.UI)"
+}, {
+    "p": "it.polimi.ingsw.server.model",
+    "c": "ModTest",
+    "l": "ModTest()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "MarketTest",
+    "l": "move(int)"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "move(int, Colours)",
+    "u": "move(int,it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "moveAllOtherFT(List<Colours>, int)",
+    "u": "moveAllOtherFT(java.util.List,int)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "FaithTrack",
+    "l": "moveForward(int)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalBoardController",
+    "l": "moveFT(int)"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "BoardController",
+    "l": "moveFT(int)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "moveFT(int)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "BoardTest",
+    "l": "moveFTTest()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalGameController",
+    "l": "moveLorenzo()"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "moveMarbles(int)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "moveMarket(MouseEvent)",
+    "u": "moveMarket(javafx.scene.input.MouseEvent)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "StrongBoxTest",
+    "l": "moveResources()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Warehouse",
+    "l": "moveResources(int, Pick)",
+    "u": "moveResources(int,it.polimi.ingsw.server.accessories.Pick)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "StrongBox",
+    "l": "moveResources(Pick)",
+    "u": "moveResources(it.polimi.ingsw.server.accessories.Pick)"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "moveX(Colours, int)",
+    "u": "moveX(it.polimi.ingsw.server.accessories.Colours,int)"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "moveY(Colours, int)",
+    "u": "moveY(it.polimi.ingsw.server.accessories.Colours,int)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "MainMenuController",
+    "l": "multiButton"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "myBoard"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "myBoard"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "myDevCards"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "myId"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "myLeaderCards"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "myLeaderCards"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "myLeaderCards"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "LocalGame",
+    "l": "myLeaderCardsHandler()"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Game",
+    "l": "myLeaderCardsHandler()"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "BoardController",
+    "l": "name"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "BoardController",
+    "l": "name()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "nameMapController"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "GUI", "l": "nameMapScene"}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "Controller",
+    "l": "newID()"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "ControllerTest",
+    "l": "newID()"
+}, {"p": "it.polimi.ingsw.server.model", "c": "Mod", "l": "newID()"}, {
+    "p": "it.polimi.ingsw.server.model",
+    "c": "ModTest",
+    "l": "newID()"
+}, {
+    "p": "it.polimi.ingsw",
+    "c": "MastersOfRenaissanceGUI",
+    "l": "newScene(Parent)",
+    "u": "newScene(javafx.scene.Parent)"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "SocketServerToClient",
+    "l": "newSocket"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "ResizeHandler",
+    "l": "newWidth(Number, int)",
+    "u": "newWidth(java.lang.Number,int)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "Lorenzo",
+    "l": "nextAction()"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "nextAction()"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "nextAction()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalGameController",
+    "l": "nextPlayer()"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameController",
+    "l": "nextPlayer()"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameControllerTest",
+    "l": "nextPlayerTest()"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Game",
+    "l": "nextReady()"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Game",
+    "l": "nGamers"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "nickname"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "nickname"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "nickname"
+}, {"p": "it.polimi.ingsw.server.model.board", "c": "Board", "l": "nickname"}, {
+    "p": "it.polimi.ingsw.server.viewer",
+    "c": "RemoteView",
+    "l": "nickname"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "SetupController",
+    "l": "nicknameField"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "ResizeHandler",
+    "l": "nodes"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "nPlayers"
+}, {"p": "it.polimi.ingsw.server.model.game", "c": "Market", "l": "nPlayers"}, {
+    "p": "it.polimi.ingsw.server.viewer",
+    "c": "RemoteView",
+    "l": "nPlayers"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "SetupController",
+    "l": "nPlayersField"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Json",
+    "l": "objectMapper"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "openStrongBox()"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "operationMoveX(Colours, int)",
+    "u": "operationMoveX(it.polimi.ingsw.server.accessories.Colours,int)"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "operationMoveY(Colours, int)",
+    "u": "operationMoveY(it.polimi.ingsw.server.accessories.Colours,int)"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "output"}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "JsonTest",
+    "l": "parse()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Json",
+    "l": "parse(String)",
+    "u": "parse(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "payForCardDev(List<Pick>)",
+    "u": "payForCardDev(java.util.List)"
+}, {"p": "it.polimi.ingsw.server.model.board", "c": "Board", "l": "pcs"}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "pcs"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Pick",
+    "l": "Pick(Colours, int)",
+    "u": "%3Cinit%3E(it.polimi.ingsw.server.accessories.Colours,int)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "pickCard(Class<? extends Card>)",
+    "u": "pickCard(java.lang.Class)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "pickSlot(CardDev)",
+    "u": "pickSlot(it.polimi.ingsw.server.accessories.cards.CardDev)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "SoloActionTest",
+    "l": "pickSoloAction()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "SoloAction",
+    "l": "pickSoloAction(List<SoloAction>)",
+    "u": "pickSoloAction(java.util.List)"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Game",
+    "l": "pickStartingResources()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "PickTest",
+    "l": "pickTest()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "PickTest",
+    "l": "PickTest()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "SetupController",
+    "l": "play()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "LocalGame",
+    "l": "playableLeaderCards"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Game",
+    "l": "playableLeaderCards"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalBoardController",
+    "l": "player"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "BoardController",
+    "l": "player"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalBoardController",
+    "l": "player()"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "BoardController",
+    "l": "player()"
+}, {"p": "it.polimi.ingsw.server.web", "c": "Server", "l": "playersNameId"}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "Server",
+    "l": "playingConnection"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalGameController",
+    "l": "playingPlayer"
+}, {"p": "it.polimi.ingsw.server.model.game", "c": "Game", "l": "playingPlayer"}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "Server",
+    "l": "playingPlayersNameSocket"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "FaithTrack",
+    "l": "popeFavor"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "FaithTrack",
+    "l": "popeFavorWinPnt"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "FaithTrackTest",
+    "l": "popeFavorWinPntTest()"
+}, {"p": "it.polimi.ingsw.clients.multiplayer.web", "c": "Client", "l": "port"}, {
+    "p": "it.polimi.ingsw.server",
+    "c": "ServerApp",
+    "l": "port"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "SetupController",
+    "l": "portField"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "FaithTrack",
+    "l": "position"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "position(int)"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "SocketServerToClient",
+    "l": "prepareInitialLeaders(String)",
+    "u": "prepareInitialLeaders(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "prepareResForWarehouse(Colours)",
+    "u": "prepareResForWarehouse(it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "prepareResForWarehouse(Colours, int)",
+    "u": "prepareResForWarehouse(it.polimi.ingsw.server.accessories.Colours,int)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "prepareResForWarehouseM(Colours, int)",
+    "u": "prepareResForWarehouseM(it.polimi.ingsw.server.accessories.Colours,int)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "prepareResForWarehouseS(Colours, int)",
+    "u": "prepareResForWarehouseS(it.polimi.ingsw.server.accessories.Colours,int)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "prepareResForWarehouseS(Colours, int)",
+    "u": "prepareResForWarehouseS(it.polimi.ingsw.server.accessories.Colours,int)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "Lorenzo",
+    "l": "print(String)",
+    "u": "print(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "DrawerCLI",
+    "l": "printLine()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "printMessage(String)",
+    "u": "printMessage(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "printMessage(String)",
+    "u": "printMessage(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "UI",
+    "l": "printMessage(String)",
+    "u": "printMessage(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "SoloActionTest",
+    "l": "printSASingle()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "SoloAction",
+    "l": "printSASingle(SoloAction)",
+    "u": "printSASingle(it.polimi.ingsw.clients.singleplayer.model.SoloAction)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "SoloActionTest",
+    "l": "printSAString()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "SoloAction",
+    "l": "printSAString(SoloAction)",
+    "u": "printSAString(it.polimi.ingsw.clients.singleplayer.model.SoloAction)"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "BoardController",
+    "l": "produce(CardDev)",
+    "u": "produce(it.polimi.ingsw.server.accessories.cards.CardDev)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "produce(CardDev)",
+    "u": "produce(it.polimi.ingsw.server.accessories.cards.CardDev)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "BoardTest",
+    "l": "produceTest()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "productAlt"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "ResizeHandler",
+    "l": "properties"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "propertyChange(PropertyChangeEvent)",
+    "u": "propertyChange(java.beans.PropertyChangeEvent)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "propertyChange(PropertyChangeEvent)",
+    "u": "propertyChange(java.beans.PropertyChangeEvent)"
+}, {
+    "p": "it.polimi.ingsw.server.viewer",
+    "c": "RemoteView",
+    "l": "propertyChange(PropertyChangeEvent)",
+    "u": "propertyChange(java.beans.PropertyChangeEvent)"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "Server",
+    "l": "propertyChange(PropertyChangeEvent)",
+    "u": "propertyChange(java.beans.PropertyChangeEvent)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "propertyChangeMulti(PropertyChangeEvent)",
+    "u": "propertyChangeMulti(java.beans.PropertyChangeEvent)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "propertyChangeMulti(PropertyChangeEvent)",
+    "u": "propertyChangeMulti(java.beans.PropertyChangeEvent)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "UI",
+    "l": "propertyChangeMulti(PropertyChangeEvent)",
+    "u": "propertyChangeMulti(java.beans.PropertyChangeEvent)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "Lorenzo",
+    "l": "propertyChangeSupport"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Colours",
+    "l": "PURPLE"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "PURPLE"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "PURPLE_BACKGROUND"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "PURPLE_BACKGROUND_BRIGHT"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "PURPLE_BOLD"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "PURPLE_BOLD_BRIGHT"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "PURPLE_BRIGHT"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "PURPLE_UNDERLINED"
+}, {"p": "it.polimi.ingsw.server.accessories", "c": "Pick", "l": "qnt"}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Requirements.RequirementsResources",
+    "l": "qnt"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Pick",
+    "l": "qnt()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "MainMenuController",
+    "l": "quit()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "LocalGame",
+    "l": "random"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "SoloAction",
+    "l": "random"
+}, {"p": "it.polimi.ingsw.server.model.game", "c": "Game", "l": "random"}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "random"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "SocketServerToClient",
+    "l": "readFromClient()"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "readingFromServer()"
+}, {"p": "it.polimi.ingsw.server.model.board", "c": "Board", "l": "ready"}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "ready()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "realChoosing(List<Card>)",
+    "u": "realChoosing(java.util.List)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalBoardController",
+    "l": "rearrangeWarehouse(int, int)",
+    "u": "rearrangeWarehouse(int,int)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "rearrangeWarehouse(int, int)",
+    "u": "rearrangeWarehouse(int,int)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "BoardTest",
+    "l": "rearrangeWarehouseTest()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "reChooseNickname(int)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "reChooseNickname(int)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "UI",
+    "l": "reChooseNickname(int)"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "recreatePropertyChangeEvent(String)",
+    "u": "recreatePropertyChangeEvent(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Colours",
+    "l": "RED"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "RED"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "RED_BACKGROUND"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "RED_BACKGROUND_BRIGHT"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "RED_BOLD"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "RED_BOLD_BRIGHT"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "RED_BRIGHT"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "RED_UNDERLINED"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "redCrossImg"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "Server",
+    "l": "registerConnection(SocketServerToClient, List<String>)",
+    "u": "registerConnection(it.polimi.ingsw.server.web.SocketServerToClient,java.util.List)"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "Server",
+    "l": "rejoin(int, String, SocketServerToClient)",
+    "u": "rejoin(int,java.lang.String,it.polimi.ingsw.server.web.SocketServerToClient)"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "SocketServerToClient",
+    "l": "remoteView"
+}, {
+    "p": "it.polimi.ingsw.server.viewer",
+    "c": "RemoteView",
+    "l": "RemoteView(SocketServerToClient)",
+    "u": "%3Cinit%3E(it.polimi.ingsw.server.web.SocketServerToClient)"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "Server",
+    "l": "removePlayer(String)",
+    "u": "removePlayer(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "req"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Requirements.RequirementsCard",
+    "l": "RequirementsCard(int, ColoursCards)",
+    "u": "%3Cinit%3E(int,it.polimi.ingsw.server.accessories.ColoursCards)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Requirements.RequirementsResources",
+    "l": "RequirementsResources(Pick[])",
+    "u": "%3Cinit%3E(it.polimi.ingsw.server.accessories.Pick[])"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "RequirementsTest",
+    "l": "RequirementsTest()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "resAll"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "resAllObj"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "RESET"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "resFrom"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "resilience(int, String, int)",
+    "u": "resilience(int,java.lang.String,int)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "resilience(int, String, int)",
+    "u": "resilience(int,java.lang.String,int)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "UI",
+    "l": "resilience(int, String, int)",
+    "u": "resilience(int,java.lang.String,int)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "ResizeHandler",
+    "l": "ResizeHandler(Pane)",
+    "u": "%3Cinit%3E(javafx.scene.layout.Pane)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "ResizeHandler",
+    "l": "resizeHeight(Number, int)",
+    "u": "resizeHeight(java.lang.Number,int)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Pick",
+    "l": "resource"
+}, {"p": "it.polimi.ingsw.server.accessories", "c": "Pick", "l": "resource()"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "resourcesDestination(Colours, String, String)",
+    "u": "resourcesDestination(it.polimi.ingsw.server.accessories.Colours,java.lang.String,java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "resourcesHandlerMarket(List<Colours>)",
+    "u": "resourcesHandlerMarket(java.util.List)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "resourcesHandlerMarket(List<Colours>)",
+    "u": "resourcesHandlerMarket(java.util.List)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "resTo"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "ResizeHandler",
+    "l": "rootHeight"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "ResizeHandler",
+    "l": "rootWidth"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "run()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.web",
+    "c": "Local",
+    "l": "run()"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "run()"}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "Server",
+    "l": "run()"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "SocketServerToClient",
+    "l": "run()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "InitialLeader",
+    "l": "selected"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "LocalGame",
+    "l": "selectNextPlayableLeaderCards()"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Game",
+    "l": "selectNextPlayableLeaderCards()"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "SocketServerToClient",
+    "l": "send(Object)",
+    "u": "send(java.lang.Object)"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "send(String)",
+    "u": "send(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "Server",
+    "l": "sendExternalMarble(Colours, int, int)",
+    "u": "sendExternalMarble(it.polimi.ingsw.server.accessories.Colours,int,int)"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "SocketServerToClient",
+    "l": "sendInLobby()"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "Server",
+    "l": "sendMarket(String, int, int)",
+    "u": "sendMarket(java.lang.String,int,int)"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "Server",
+    "l": "sendNickname(int, Integer)",
+    "u": "sendNickname(int,java.lang.Integer)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "StrongBoxController",
+    "l": "servantLabel"
+}, {"p": "it.polimi.ingsw.server.web", "c": "SocketServerToClient", "l": "server"}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "Server",
+    "l": "Server(int)",
+    "u": "%3Cinit%3E(int)"
+}, {
+    "p": "it.polimi.ingsw.server",
+    "c": "ServerApp",
+    "l": "ServerApp()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "SetupController",
+    "l": "serverField"
+}, {"p": "it.polimi.ingsw.server.web", "c": "Server", "l": "serverSocket"}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameController",
+    "l": "setBoardController(int, BoardController)",
+    "u": "setBoardController(int,it.polimi.ingsw.server.controller.BoardController)"
+}, {
+    "p": "it.polimi.ingsw.server.viewer",
+    "c": "RemoteView",
+    "l": "setBoardId(int)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "setBufferMarket(List<Colours>)",
+    "u": "setBufferMarket(java.util.List)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "setClient(Client)",
+    "u": "setClient(it.polimi.ingsw.clients.multiplayer.web.Client)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "setClient(Client)",
+    "u": "setClient(it.polimi.ingsw.clients.multiplayer.web.Client)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "UI",
+    "l": "setClient(Client)",
+    "u": "setClient(it.polimi.ingsw.clients.multiplayer.web.Client)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "setCurrentScene(Scene)",
+    "u": "setCurrentScene(javafx.scene.Scene)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "setDiscount(Colours)",
+    "u": "setDiscount(it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "BoardTest",
+    "l": "setDiscountTest()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "setDoublePreference()"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "setExternal(Colours)",
+    "u": "setExternal(it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelView",
+    "l": "setExternalMarble(Colours)",
+    "u": "setExternalMarble(it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "setFaithTrack(int)"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "SocketServerToClient",
+    "l": "setGameController(Integer)",
+    "u": "setGameController(java.lang.Integer)"
+}, {
+    "p": "it.polimi.ingsw.server.viewer",
+    "c": "RemoteView",
+    "l": "setGameId(Integer)",
+    "u": "setGameId(java.lang.Integer)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "setGameID(Integer)",
+    "u": "setGameID(java.lang.Integer)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "setGui(GUI)",
+    "u": "setGui(it.polimi.ingsw.clients.viewer.GUI)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "GUIController",
+    "l": "setGui(GUI)",
+    "u": "setGui(it.polimi.ingsw.clients.viewer.GUI)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "InitialLeader",
+    "l": "setGui(GUI)",
+    "u": "setGui(it.polimi.ingsw.clients.viewer.GUI)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "MainMenuController",
+    "l": "setGui(GUI)",
+    "u": "setGui(it.polimi.ingsw.clients.viewer.GUI)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "SetupController",
+    "l": "setGui(GUI)",
+    "u": "setGui(it.polimi.ingsw.clients.viewer.GUI)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "StrongBoxController",
+    "l": "setGui(GUI)",
+    "u": "setGui(it.polimi.ingsw.clients.viewer.GUI)"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "setId(Integer)",
+    "u": "setId(java.lang.Integer)"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "setIP(String)",
+    "u": "setIP(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelView",
+    "l": "setMarket(Colours[][])",
+    "u": "setMarket(it.polimi.ingsw.server.accessories.Colours[][])"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "setMarket(String)",
+    "u": "setMarket(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "setMarketAlt(Colours)",
+    "u": "setMarketAlt(it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "BoardTest",
+    "l": "setMarketAltTest()"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "setModelView()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "setModelView(ModelView)",
+    "u": "setModelView(it.polimi.ingsw.clients.multiplayer.model.ModelView)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "setModelView(ModelView)",
+    "u": "setModelView(it.polimi.ingsw.clients.multiplayer.model.ModelView)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "UI",
+    "l": "setModelView(ModelView)",
+    "u": "setModelView(it.polimi.ingsw.clients.multiplayer.model.ModelView)"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "setMyBoard(int)"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "setMyBoard(int)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "UI",
+    "l": "setMyBoard(int)"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "BoardController",
+    "l": "setMyCardLeader(CardLeader[])",
+    "u": "setMyCardLeader(it.polimi.ingsw.server.accessories.cards.CardLeader[])"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "setMyLeaderCards(CardLeader, int)",
+    "u": "setMyLeaderCards(it.polimi.ingsw.server.accessories.cards.CardLeader,int)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "setMyLeaderCards(CardLeader[])",
+    "u": "setMyLeaderCards(it.polimi.ingsw.server.accessories.cards.CardLeader[])"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Game",
+    "l": "setNGamers(int)"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "setNickname(String)",
+    "u": "setNickname(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "setNickname(String)",
+    "u": "setNickname(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "setNickname(String)",
+    "u": "setNickname(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "UI",
+    "l": "setNickname(String)",
+    "u": "setNickname(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "setNickname(String)",
+    "u": "setNickname(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.server.viewer",
+    "c": "RemoteView",
+    "l": "setNickname(String)",
+    "u": "setNickname(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "setNPlayers(int)"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Market",
+    "l": "setNPlayers(int)"
+}, {
+    "p": "it.polimi.ingsw.server.viewer",
+    "c": "RemoteView",
+    "l": "setNPlayers(int)"
+}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Game",
+    "l": "setPlayingPlayer(int)"
+}, {"p": "it.polimi.ingsw.server", "c": "ServerApp", "l": "setPort()"}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "setPort(int)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "setPreference()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "setProductAlt(Colours)",
+    "u": "setProductAlt(it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "BoardTest",
+    "l": "setProductAltTest()"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "setResAll(Colours, Integer)",
+    "u": "setResAll(it.polimi.ingsw.server.accessories.Colours,java.lang.Integer)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.web",
+    "c": "Local",
+    "l": "setSingle()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "setSingle(boolean)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "setSingle(boolean)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "UI",
+    "l": "setSingle(boolean)"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "setStrongBox(Colours, Integer)",
+    "u": "setStrongBox(it.polimi.ingsw.server.accessories.Colours,java.lang.Integer)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "setTemporaryLeaderCards(CardLeader[])",
+    "u": "setTemporaryLeaderCards(it.polimi.ingsw.server.accessories.cards.CardLeader[])"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "SimpleTestCaseJsonPOJO",
+    "l": "setTitle(String)",
+    "u": "setTitle(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "Lorenzo",
+    "l": "setUi(UI)",
+    "u": "setUi(it.polimi.ingsw.clients.viewer.UI)"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "GUI", "l": "SETUP"}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "setup()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "setup()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "SetupController",
+    "l": "SetupController()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "setupGame(String)",
+    "u": "setupGame(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "setWarehouse(int, Colours, int)",
+    "u": "setWarehouse(int,it.polimi.ingsw.server.accessories.Colours,int)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "setWinner(String)",
+    "u": "setWinner(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "StrongBoxController",
+    "l": "shieldLabel"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "DrawerCLI",
+    "l": "showCard(Card)",
+    "u": "showCard(it.polimi.ingsw.server.accessories.cards.Card)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "showError(String)",
+    "u": "showError(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "showError(String)",
+    "u": "showError(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "UI",
+    "l": "showError(String)",
+    "u": "showError(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "showFaithTrack()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "DrawerCLI",
+    "l": "showFaithTrack(Checker, int)",
+    "u": "showFaithTrack(it.polimi.ingsw.clients.viewer.utils.Checker,int)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "DrawerCLI",
+    "l": "showFaithTrackSingle(Checker)",
+    "u": "showFaithTrackSingle(it.polimi.ingsw.clients.viewer.utils.Checker)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "DrawerCLI",
+    "l": "showLibrary(List<ArrayList<CardDev>>)",
+    "u": "showLibrary(java.util.List)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "DrawerCLI",
+    "l": "showMarket(Colours[][], Colours)",
+    "u": "showMarket(it.polimi.ingsw.server.accessories.Colours[][],it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "DrawerCLI",
+    "l": "showMyCardLeader(CardLeader[])",
+    "u": "showMyCardLeader(it.polimi.ingsw.server.accessories.cards.CardLeader[])"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "showPick(Pick[])",
+    "u": "showPick(it.polimi.ingsw.server.accessories.Pick[])"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDevTest",
+    "l": "showPick(Pick[])",
+    "u": "showPick(it.polimi.ingsw.server.accessories.Pick[])"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "showReq(Requirements[])",
+    "u": "showReq(it.polimi.ingsw.server.accessories.Requirements[])"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeaderTest",
+    "l": "showReq(Requirements[])",
+    "u": "showReq(it.polimi.ingsw.server.accessories.Requirements[])"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "showStatus()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "DrawerCLI",
+    "l": "showStrongBox(Map<Colours, Integer>)",
+    "u": "showStrongBox(java.util.Map)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "DrawerCLI",
+    "l": "showWarehouse(List<Pick>)",
+    "u": "showWarehouse(java.util.List)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "SoloAction",
+    "l": "shuffle()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "SoloActionTest",
+    "l": "shuffle()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "SimpleTestCaseJsonPOJO",
+    "l": "SimpleTestCaseJsonPOJO()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "JsonTest",
+    "l": "SimpleTestCaseJsonSource"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "single"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "single"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "SINGLEBOARD"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "MainMenuController",
+    "l": "singleButton"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalGameController",
+    "l": "singleInstance"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "Controller",
+    "l": "singleInstance"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Library",
+    "l": "slot"
+}, {"p": "it.polimi.ingsw.clients.multiplayer.web", "c": "Client", "l": "socket"}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "SocketServerToClient",
+    "l": "socket"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "SocketServerToClient",
+    "l": "socketIn"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "socketOut"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "SocketServerToClient",
+    "l": "socketOut"
+}, {
+    "p": "it.polimi.ingsw.server.viewer",
+    "c": "RemoteView",
+    "l": "socketServerToClient"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "SocketServerToClient",
+    "l": "SocketServerToClient(Socket, Server)",
+    "u": "%3Cinit%3E(java.net.Socket,it.polimi.ingsw.server.web.Server)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "SoloAction",
+    "l": "SoloAction()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "SoloActionTest",
+    "l": "SoloActionTest()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "somethingIsWrong(String)",
+    "u": "somethingIsWrong(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "special"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "sphere0"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "sphere1"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "sphere10"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "sphere11"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "sphere12"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "sphere2"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "sphere3"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "sphere4"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "sphere5"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "sphere6"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "sphere7"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "sphere8"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "sphere9"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "sphereList"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "GUI", "l": "stage"}, {
+    "p": "it.polimi.ingsw.server",
+    "c": "ServerApp",
+    "l": "start()"
+}, {"p": "it.polimi.ingsw.clients", "c": "ClientApp", "l": "start(int)"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "start(Stage)",
+    "u": "start(javafx.stage.Stage)"
+}, {
+    "p": "it.polimi.ingsw",
+    "c": "MastersOfRenaissanceGUI",
+    "l": "start(Stage)",
+    "u": "start(javafx.stage.Stage)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalGameController",
+    "l": "startGame()"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameController",
+    "l": "startGame()"
+}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "Server",
+    "l": "startGame(int, Integer)",
+    "u": "startGame(int,java.lang.Integer)"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameControllerTest",
+    "l": "startGameTest()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "MainMenuController",
+    "l": "startMultiGame()"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "startProd()"}, {
+    "p": "it.polimi.ingsw.server.model.game",
+    "c": "Game",
+    "l": "startRealPlay()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "MainMenuController",
+    "l": "startSingleGame()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "StrongBoxController",
+    "l": "stoneLabel"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "BoardController",
+    "l": "storeInStrongBox(Colours, int)",
+    "u": "storeInStrongBox(it.polimi.ingsw.server.accessories.Colours,int)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "storeInStrongBox(Pick[])",
+    "u": "storeInStrongBox(it.polimi.ingsw.server.accessories.Pick[])"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "BoardTest",
+    "l": "storeInStrongBoxTest()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "storeInWarehouse(int, Pick[])",
+    "u": "storeInWarehouse(int,it.polimi.ingsw.server.accessories.Pick[])"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "BoardTest",
+    "l": "storeInWarehouseTest()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "JsonTest",
+    "l": "stringify()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Json",
+    "l": "stringify(JsonNode)",
+    "u": "stringify(com.fasterxml.jackson.databind.JsonNode)"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "strongBox"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "GUI", "l": "STRONGBOX"}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "STRONGBOX"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "StrongBox",
+    "l": "StrongBox()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "strongBoxButton"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "StrongBoxController",
+    "l": "StrongBoxController()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "strongBoxObj"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "StrongBoxTest",
+    "l": "StrongBoxTest()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "StrongBox",
+    "l": "strongContent"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalBoardController",
+    "l": "takeFromStrongbox(Colours)",
+    "u": "takeFromStrongbox(it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "BoardController",
+    "l": "takeFromStrongBox(Colours)",
+    "u": "takeFromStrongBox(it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "takeFromStrongBox(Colours)",
+    "u": "takeFromStrongBox(it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "BoardTest",
+    "l": "takeFromStrongBoxTest()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalBoardController",
+    "l": "takeFromWarehouse(Colours)",
+    "u": "takeFromWarehouse(it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "BoardController",
+    "l": "takeFromWarehouse(Colours)",
+    "u": "takeFromWarehouse(it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "takeFromWarehouse(Colours)",
+    "u": "takeFromWarehouse(it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "BoardTest",
+    "l": "takeFromWarehouseTest()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "temporaryLeaderCards(PropertyChangeEvent)",
+    "u": "temporaryLeaderCards(java.beans.PropertyChangeEvent)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDevTest",
+    "l": "testToString()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeaderTest",
+    "l": "testToStringTest()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "THING"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "InitialLeader",
+    "l": "thisCards"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tile00"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tile01"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tile02"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tile03"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tile04"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tile05"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tile06"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tile07"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tile08"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tile09"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tile10"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tile11"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tile12"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tile13"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tile14"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tile15"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tile16"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tile17"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tile18"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tile19"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tile20"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tile21"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tile22"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tile23"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tile24"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "BoardsController",
+    "l": "tileList"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "SimpleTestCaseJsonPOJO",
+    "l": "title"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "JsonTest",
+    "l": "toJson()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Json",
+    "l": "toJson(Object)",
+    "u": "toJson(java.lang.Object)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "toLeaderSpace(Colours)",
+    "u": "toLeaderSpace(it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalGameController",
+    "l": "tossCardDev(ColoursCards)",
+    "u": "tossCardDev(it.polimi.ingsw.server.accessories.ColoursCards)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalBoardController",
+    "l": "toString()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "DrawerCLI",
+    "l": "toString()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "Utils",
+    "l": "toString()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "Card",
+    "l": "toString()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "toString()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "toString()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Pick",
+    "l": "toString()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Requirements.RequirementsCard",
+    "l": "toString()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Requirements.RequirementsResources",
+    "l": "toString()"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "BoardController",
+    "l": "toString()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "RequirementsTest",
+    "l": "toStringCardTest()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "RequirementsTest",
+    "l": "toStringPickTest()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "toStrongBox(Colours)",
+    "u": "toStrongBox(it.polimi.ingsw.server.accessories.Colours)"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "CLI",
+    "l": "toWarehouse(Colours)",
+    "u": "toWarehouse(it.polimi.ingsw.server.accessories.Colours)"
+}, {"p": "it.polimi.ingsw.server.model.game", "c": "Market", "l": "tray"}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Colours",
+    "l": "type"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Requirements.RequirementsCard",
+    "l": "type"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Requirements.RequirementsResources",
+    "l": "type"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.web",
+    "c": "Client",
+    "l": "ui"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "Lorenzo",
+    "l": "ui"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.web",
+    "c": "Local",
+    "l": "ui"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "Checker",
+    "l": "ui"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "DrawerCLI",
+    "l": "ui"
+}, {"p": "it.polimi.ingsw.clients.viewer.utils", "c": "Utils", "l": "ui"}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "DrawerCLI",
+    "l": "ui()"
+}, {"p": "it.polimi.ingsw.clients.viewer.utils", "c": "Utils", "l": "ui()"}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "Server",
+    "l": "updateAllBoard(PropertyChangeEvent)",
+    "u": "updateAllBoard(java.beans.PropertyChangeEvent)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "updateResAll()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "BoardTest",
+    "l": "updateResAllTest()"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "Utils",
+    "l": "Utils(UI)",
+    "u": "%3Cinit%3E(it.polimi.ingsw.clients.viewer.UI)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Constants",
+    "l": "val"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Colours",
+    "l": "valid()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "ColoursTest",
+    "l": "validTest()"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "SoloAction",
+    "l": "valueOf(String)",
+    "u": "valueOf(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "valueOf(String)",
+    "u": "valueOf(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "valueOf(String)",
+    "u": "valueOf(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Colours",
+    "l": "valueOf(String)",
+    "u": "valueOf(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "ColoursCards",
+    "l": "valueOf(String)",
+    "u": "valueOf(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Constants",
+    "l": "valueOf(String)",
+    "u": "valueOf(java.lang.String)"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.model",
+    "c": "SoloAction",
+    "l": "values()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "values()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "values()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Colours",
+    "l": "values()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "ColoursCards",
+    "l": "values()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Constants",
+    "l": "values()"
+}, {"p": "it.polimi.ingsw.server.accessories", "c": "ColoursCards", "l": "VIOLET"}, {
+    "p": "it.polimi.ingsw.server.web",
+    "c": "Server",
+    "l": "waitingFor1Game"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "wakeALeader()"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "wakeALeader(CardLeader)",
+    "u": "wakeALeader(it.polimi.ingsw.server.accessories.cards.CardLeader)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Warehouse",
+    "l": "wareContent"
+}, {
+    "p": "it.polimi.ingsw.clients.multiplayer.model",
+    "c": "ModelBoard",
+    "l": "warehouse"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "WAREHOUSE"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Warehouse",
+    "l": "Warehouse()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "Board",
+    "l": "warehouseObj"
+}, {
+    "p": "it.polimi.ingsw.clients.singleplayer.controller",
+    "c": "LocalBoardController",
+    "l": "warehouseResHandler(Colours, int, int)",
+    "u": "warehouseResHandler(it.polimi.ingsw.server.accessories.Colours,int,int)"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "BoardController",
+    "l": "warehouseResHandler(Colours, int, int)",
+    "u": "warehouseResHandler(it.polimi.ingsw.server.accessories.Colours,int,int)"
+}, {
+    "p": "it.polimi.ingsw.server.model.board",
+    "c": "WarehouseTest",
+    "l": "WarehouseTest()",
+    "u": "%3Cinit%3E()"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Colours",
+    "l": "WHITE"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "WHITE"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "WHITE_BACKGROUND"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "WHITE_BACKGROUND_BRIGHT"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "WHITE_BOLD"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "WHITE_BOLD_BRIGHT"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "WHITE_BRIGHT"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "WHITE_UNDERLINED"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.controllers",
+    "c": "ResizeHandler",
+    "l": "widthListener"
+}, {
+    "p": "it.polimi.ingsw.server.controller",
+    "c": "GameController",
+    "l": "win"
+}, {"p": "it.polimi.ingsw.clients.viewer", "c": "CLI", "l": "winner"}, {
+    "p": "it.polimi.ingsw.clients.viewer",
+    "c": "GUI",
+    "l": "winner"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardDev",
+    "l": "winPnt"
+}, {
+    "p": "it.polimi.ingsw.server.accessories.cards",
+    "c": "CardLeader",
+    "l": "winPnt"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Constants",
+    "l": "XMARKET"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "Colours",
+    "l": "YELLOW"
+}, {
+    "p": "it.polimi.ingsw.server.accessories",
+    "c": "ColoursCards",
+    "l": "YELLOW"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "YELLOW"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "YELLOW_BACKGROUND"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "YELLOW_BACKGROUND_BRIGHT"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "YELLOW_BOLD"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "YELLOW_BOLD_BRIGHT"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "YELLOW_BRIGHT"
+}, {
+    "p": "it.polimi.ingsw.clients.viewer.utils",
+    "c": "ConsoleColors",
+    "l": "YELLOW_UNDERLINED"
+}, {"p": "it.polimi.ingsw.server.accessories", "c": "Constants", "l": "YMARKET"}];
+updateSearchResults();
